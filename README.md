@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1 align="center">Rafał Stefański</h1>
+<h2 align="center">Java Developer</h2>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100001013543176"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
+  <a href="https://www.linkedin.com/in/rafa%C5%82-stefa%C5%84ski/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
+  <a href="https://vpr.pl/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a>
+</p>
+
 <!--
 **Rafal-Stefanski/Rafal-Stefanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
