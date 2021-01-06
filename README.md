@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/rafa%C5%82-stefa%C5%84ski/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
   <a href="https://vpr.pl/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a> </br>
 </h2>
- [![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rafal-stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafal-stefanski&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafal-stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafal-stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <h2 align="center">Java Developer</h2>
