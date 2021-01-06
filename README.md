@@ -6,7 +6,7 @@
   <a href="https://vpr.pl/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a> </br>
 </h2>
  [![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafal-Stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=rafal-stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
