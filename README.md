@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Welcomo to my Github account</h1>
+<h1 align="center">Welcome to my Github account</h1>
 <h2 align="center">Java Developer</h2>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100001013543176"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
