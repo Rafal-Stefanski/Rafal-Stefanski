@@ -1,10 +1,14 @@
-<h1 align="center">Welcome to my Github account</h1>
-<h2 align="center">Hi there 👋</br>
+<h1 align="center">Hi there 👋</br>Welcome to my Github account</h1>
+<h2 align="center">
 📫 How to reach me:
   <a href="https://www.facebook.com/profile.php?id=100001013543176"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
   <a href="https://www.linkedin.com/in/rafa%C5%82-stefa%C5%84ski/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
-  <a href="https://vpr.pl/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a>
+  <a href="https://vpr.pl/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a> </br>
+  [![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafal-Stefanski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </h2>
+
+
 
 <!--
 <h2 align="center">Java Developer</h2>
