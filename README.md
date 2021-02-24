@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</br></br>Welcome to my Github account</h1>
-<h2 align="center">
+<h2 align="left">Hi there 👋</br></br>Welcome to my Github account</h1>
+<h2 align="left">
 📫 How to reach me:
   <a href="https://www.facebook.com/profile.php?id=100001013543176"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
   <a href="https://www.linkedin.com/in/rafa%C5%82-stefa%C5%84ski/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
@@ -7,7 +7,6 @@
 </h2>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
